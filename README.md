@@ -5,6 +5,7 @@ AXIS isn't just a travel app; it’s the definitive digital companion that trans
 📱 What is AXIS and how does it work?:
 
 AXIS is a cross-platform mobile application (iOS/Android) powered by intelligent geolocation. Leveraging cutting-edge web technologies (Next.js 14, Capacitor, and hyper-fluid design via Framer Motion) alongside open-source databases (such as OSM Overpass API and Nominatim), the app scans the surroundings to deliver a curated list of vital points of interest for the modern traveler.
+
 ✨ Key Features:
 
   Zero-Click Discovery: Upon opening, the app automatically detects your location and instantly displays nearby Restaurants, Hotels, Bars, Tobacco shops, Supermarkets, and Public Transit stations.
@@ -20,6 +21,7 @@ AXIS is a cross-platform mobile application (iOS/Android) powered by intelligent
 On average, a traveler spends 10 to 20 minutes opening Google Maps, searching for "restaurants," filtering by "open now," reading reviews, and then repeating the process for a "tobacco shop" or "supermarket."
 
 With AXIS, this process is slashed to under 5 seconds. The user opens the app and finds everything categorized: how many meters to the nearest bar, whether it’s open, and how to get there. It is the total elimination of "decision fatigue."
+
 🎯 Why users will love it (and use it):
 
   Zero Learning Curve: The interface is so intuitive it requires no onboarding.
