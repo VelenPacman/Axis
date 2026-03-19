@@ -1,6 +1,7 @@
 🚀 AXIS: The Future of Local Exploration
 
 AXIS isn't just a travel app; it’s the definitive digital companion that transforms search anxiety into instant discovery. Designed for travelers, digital nomads, and anyone navigating an unfamiliar city, AXIS answers the question "What’s around here?" in fractions of a second—before the user even thinks to type it.
+
 📱 What is AXIS and how does it work?:
 
 AXIS is a cross-platform mobile application (iOS/Android) powered by intelligent geolocation. Leveraging cutting-edge web technologies (Next.js 14, Capacitor, and hyper-fluid design via Framer Motion) alongside open-source databases (such as OSM Overpass API and Nominatim), the app scans the surroundings to deliver a curated list of vital points of interest for the modern traveler.
